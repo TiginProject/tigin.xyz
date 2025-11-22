@@ -76,7 +76,7 @@ export default function Home() {
                     </RainbowButton>
 
                     <RainbowButton className="rounded-xl h-11 px-8 gap-1" variant="outline" asChild>
-                      <Link href="https://github.com/Nukkit/Nukkit">
+                      <Link href="https://docs.tigin.xyz">
                         View Documentations Page
                         <ChevronRight className="size-4 shrink-0 transition-all duration-300 ease-out group-hover:translate-x-1"/>
                       </Link>
